@@ -8,10 +8,14 @@ public class Main03 {
 		}
 
 		int i = 0;
-		while(i<3){
+//		while(i<3){
+//			System.out.println("Java");
+//			i++;
+//		}
+		do {
 			System.out.println("Java");
 			i++;
-		}
+		} while(i<3);
 
 	}
 
